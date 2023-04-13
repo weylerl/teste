@@ -1,3 +1,20 @@
+> This is a paragraph.
+>
+> > A nested blockquote.
+>
+> ### Headers work
+>
+> * lists too
+>
+> and all other block-level **elements**.
+
+
+---
+----
+-------
+
+
+
 ### Teste 1
 ---------------------------------
 #### Teste 2
@@ -14,18 +31,38 @@ Teste 4
 | Caneta           | R$ 8,99    |
 | Caderno pequeno  | R$ 1,99    |
 
+> **Warning**
+> Uma advertência!!
 
-<span style="color:red">
-Text content
-</span>
+> **Note**
+> 
+> Uma nota
 
-Roses are \textcolor{red}{red}, violets are \textcolor{blue}{blue}.
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 # Foo
 Teste Teste
 
 # outro
 Teste
+
+1.   Item 1
+1.   Item 2
+
+     ```ruby
+     def hello
+        puts "Hello world!"
+     end
+     ```
+
+1.   Item 3
 
 # Apenas alguns testes
 
