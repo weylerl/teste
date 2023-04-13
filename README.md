@@ -1,3 +1,25 @@
+### Teste 1
+---------------------------------
+#### Teste 2
+---------------------------------
+##### Teste 3
+---------------------------------
+Teste 4
+---------------------------------
+# Teste 5
+
+| Produto          | Valor      |
+|------------------|------------|
+| Borracha         | R$ 6,00    |
+| Caneta           | R$ 8,99    |
+| Caderno pequeno  | R$ 1,99    |
+
+
+<span style="color:red">
+Text content
+</span>
+
+Roses are \textcolor{red}{red}, violets are \textcolor{blue}{blue}.
 
 # Foo
 Teste Teste
