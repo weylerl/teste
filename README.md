@@ -132,3 +132,25 @@ You can provide multiple comma-separated values in the bg_color option to render
 [Custom foo description](#foo)
 
 [vai para apenas alguns teste](#apenas-alguns-testes)
+
+
+
+-------------------
+
+#### asdasa
+- asd
+- asd
+
+>[!NOTE] Notas
+>### asdasd 
+>- adas
+>- asdas 
+>- asdasd
+>
+---
+>[!TIP] Dica  
+>adasd
+***
+sdf
+
+Outro teste [^1]
